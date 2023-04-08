@@ -155,19 +155,14 @@ html {
 }
 
 
- 
-
-
 #slider {
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
+    background: url(/assets/img/slider1.jpg) top center / cover no-repeat;
 }    
-#slider img {
-    top center / cover no-repeat;
-}
 #slider .text-content {
-    position: absolute;
+    position: absolute; 
     color: #fff;
     bottom: 47px;
     left: 50%;
